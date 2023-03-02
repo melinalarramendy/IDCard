@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+    overflow:hidden;    
+    position:absolute;  
+}
+
+.textVerde {
+    color: #24A148;
+}
+
+.icono {
+    text-decoration: none;
+}
+
