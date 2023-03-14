@@ -1,4 +1,8 @@
-
+html {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+    box-sizing: border-box;
+}
 
 .textVerde {
     color: #24A148;
